@@ -1,2 +1,0 @@
-C:/Users/angel/Downloads/match-a-saurus-V.1.1/android/app/.cxx/Debug/5b5z4f59/x86/CMakeFiles/edit_cache.dir
-C:/Users/angel/Downloads/match-a-saurus-V.1.1/android/app/.cxx/Debug/5b5z4f59/x86/CMakeFiles/rebuild_cache.dir

@@ -1,4 +1,0 @@
-#Mon Apr 21 08:04:08 CST 2025
-base.0=C\:\\Users\\angel\\Downloads\\smash-match-ultimate\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex

@@ -1,0 +1,2 @@
+C:/Users/Ramyll/StudioProjects/smash-match-ultimate/android/app/.cxx/RelWithDebInfo/242v4072/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Ramyll/StudioProjects/smash-match-ultimate/android/app/.cxx/RelWithDebInfo/242v4072/arm64-v8a/CMakeFiles/rebuild_cache.dir
