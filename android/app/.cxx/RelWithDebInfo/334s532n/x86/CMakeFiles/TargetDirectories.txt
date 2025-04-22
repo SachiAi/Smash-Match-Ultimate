@@ -1,0 +1,2 @@
+C:/Users/angel/Downloads/smash-match-ultimate/android/app/.cxx/RelWithDebInfo/334s532n/x86/CMakeFiles/edit_cache.dir
+C:/Users/angel/Downloads/smash-match-ultimate/android/app/.cxx/RelWithDebInfo/334s532n/x86/CMakeFiles/rebuild_cache.dir
